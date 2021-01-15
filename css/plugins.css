@@ -1,0 +1,21 @@
+/*
+----------------------------------------------------------------------------------------------
+* Template Name    : DevMac - Creative Landing Page Agency Template                          * 
+* Author           : BullTheme                                                               *
+* Author URI: 	   : https://themeforest.net/user/bull-theme								 *
+* Author Website   : http://bulltheme.com                                                    *
+* Version          : 1.0.0                                                                   *
+* Created          : January 2020                                                            *
+* File Description : Main Css file of the template                                           * 
+----------------------------------------------------------------------------------------------
+*/
+
+/* == bootstrap == */
+@import url("plugins/bootstrap/bootstrap.min.css");
+
+/* == Owl Carousel == */
+@import url("plugins/owlcarousel/owl.carousel.min.css");
+@import url("plugins/owlcarousel/owl.theme.default.min.css");
+
+/* == Font Awesome icon font == */
+@import url("plugins/fontawesome/all.min.css");
